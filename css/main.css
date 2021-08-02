@@ -1,0 +1,149 @@
+@font-face{
+    font-family: robo;
+    src: url(/css/RobotoCondensed-Regular.ttf) format("truetype")
+}
+
+body{
+   font-family:  robo;
+   margin-top: 10px;
+   
+}
+
+.banner{
+    min-height: 500px;
+    margin:auto;
+    background-image: url(/css/banner.jpg);
+    color: white;
+    padding: 200px 0;
+}
+
+.line-1{
+    height: 4px;
+    background-color: rgb(68,68,68);
+    width: 20px;
+}
+
+.line-2{
+    height: 4px;
+    background-color: rgb(68,68,68);
+    width: 40px;
+}
+
+a {
+    margin:0 20px;
+}
+
+img {
+    margin:9px;
+}
+
+.nav-item-1{
+    margin-right: 50px;
+    
+}
+
+.nav-item-2{
+    margin-right: 10px;
+}
+
+.img-2{
+    background-image: url(/css/img1.jpg);
+    height: 600px;
+}
+
+.item-3{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-1{
+    height: 100px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/css/img2.jpg);
+}
+
+.image-2{
+    height: 100px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/css/img3.jpg);
+}
+
+.image-3{
+    height: 100px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/css/img4.jpg);
+}
+
+.image-4{
+    height: 100px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/css/img5.jpg);
+}
+
+button{
+    margin:0 40px;
+}
+
+.img-1{
+    background-image: url(/css/img6.jpg);
+    height: 600px;
+}
+
+.item-4{
+    margin-top: 60px;
+}
+
+.item-5{
+    margin-top: 60px;
+}
+
+.image-7{
+    height: 100px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/css/img7.jpg);
+}
+
+.image-8{
+    height: 100px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/css/img8.jpg);
+}
+
+.image-9{
+    height: 100px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/css/img9.jpg);
+}
+
+.image-10{
+    height: 100px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/css/img10.jpg);
+}
+
